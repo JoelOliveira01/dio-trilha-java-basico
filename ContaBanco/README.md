@@ -9,6 +9,6 @@ Dentro deste projeto contem a criação de uma classe chamada ContaTerminal, ond
 
 ## Observções
 
-Foi utilizado uma variavel chamada "sobrenome" que concatena com a variavel "nome".
+Acrecentei o "scanner.nextLine();" pois o scanner.next() não efetua a leitura da string com espaço, e um segundo nextLine abaixo da variável nomeCliente, porque contém uma variável tipo Int, que anula o ultimo nextLine.
 
 Foi feito o teste, onde executei os comando via CMD do Windows.
