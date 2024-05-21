@@ -1,18 +1,14 @@
-## Getting Started
+## Conta Terminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto criado através das aulas do Bootcamp Santander.
 
-## Folder Structure
+## Descrição
 
-The workspace contains two folders by default, where:
+O intuito do projeto é exercitar o conhecimento adquirido do curso "Aprendendo a Sintaxe Java".
+Dentro deste projeto contem a criação de uma classe chamada ContaTerminal, onde foram aplicado todos o métodos utilizado, dentre eles, tipos primitvos, unário, e até mesmo Scanner, que possibilita o usúario introduzir valores com uma execução mais segura.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Observções
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Foi utilizado uma variavel chamada "sobrenome" que concatena com a variavel "nome".
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Foi feito o teste, onde executei os comando via CMD do Windows.
